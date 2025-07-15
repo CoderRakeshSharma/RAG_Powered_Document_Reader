@@ -1,4 +1,4 @@
-# 📄 RAG-Powered Document Chatbot with Gemini  
+# 📄 RAG-Powered Document Reader Chatbot with Gemini  
 
 This project is a **smart chatbot** that can read your **PDF, DOCX, or TXT** documents and answer any questions about their content.  
 
